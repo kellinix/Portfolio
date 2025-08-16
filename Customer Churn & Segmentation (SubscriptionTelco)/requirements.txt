@@ -1,7 +1,0 @@
-Flask==3.0.3
-python-dotenv==1.0.1
-Jinja2==3.1.4
-PyYAML==6.0.2
-playwright==1.46.0
-WeasyPrint==62.3
-docxtpl==0.16.7
