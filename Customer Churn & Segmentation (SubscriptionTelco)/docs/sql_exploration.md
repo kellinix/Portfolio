@@ -1,4 +1,4 @@
-SQL Exploration — Customer Churn
+SQL Exploration Customer Churn
 1. Churn by Contract Type
 
 Month-to-month contracts have the highest churn (42.7%), which is almost 4x higher than One-year contracts (11.3%) and 15x higher than Two-year contracts (2.8%).
